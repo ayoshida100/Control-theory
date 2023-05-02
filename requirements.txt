@@ -1,0 +1,10 @@
+flake8
+autopep8
+pandas
+numpy
+scikit-learn
+tqdm
+matplotlib
+jupyterlab
+control
+sympy
